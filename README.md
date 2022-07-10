@@ -75,12 +75,12 @@
 <a href="https://www.youtube.com/watch?v=NA7hk1waODg&list=PLD7CF0BAAA0B7D594" target="_blank">
     <img height="50" src="https://e.radio-grpp.io/medium/2018/08/21/455245_666097.jpg">
   </a>
-<a href="https://www.youtube.com/watch?v=PNmGNsKH1DA&list=PL0YEPAzWUDJk281IVKZ42lwDF-MoLNpKN" target="_blank">
-    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/fc92fb544bc7f563557152986e33d364.jpg">
+<a href="https://www.youtube.com/watch?v=WiUibQxWgik" target="_blank">
+    <img height="50" src="https://media.afrocharts.com/file/afrocharts-media/uploads/2021/2/jidenna-2-2000-afrocharts-603388086c70b25a458ebd1.jpg">
   </a>
-<a href="https://www.youtube.com/watch?v=Jo9bWzi7Xr4&list=PL0YEPAzWUDJmUupW8lXl9KDSDOvZWSKyR" target="_blank">
-    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/5e6cf2decb69aeeb2b5329a8dfe0b318.jpg">
+<a href="https://www.youtube.com/watch?v=iQVei5C2N4E" target="_blank">
+    <img height="50" src="https://metalegun.com/wp-content/uploads/2020/11/wt.jpg">
   </a>
-<a href="https://www.youtube.com/watch?v=3bY6BlFgz8Y&list=PL0YEPAzWUDJkk-SCmJltqXTMPTxQr6Dq5" target="_blank">
-    <img height="50" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
+<a href="https://www.youtube.com/watch?v=ktvTqknDobU" target="_blank">
+    <img height="50" src="https://danielbautistabarrera.neocities.org/paisajes/img/i.jpg">
   </a>
