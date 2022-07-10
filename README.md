@@ -72,8 +72,8 @@
 <a href="https://www.youtube.com/watch?v=-ZvsGmYKhcU" target="_blank">
     <img height="50" src="https://colectivosonoro.com/wp-content/uploads/2021/12/Coldplay-Colombia-2022-banda.jpg">
   </a>
-<a href="https://www.youtube.com/watch?v=NA7hk1waODg&list=PLD7CF0BAAA0B7D594" target="_blank">
-    <img height="50" src="https://e.radio-grpp.io/medium/2018/08/21/455245_666097.jpg">
+<a href="https://www.youtube.com/watch?v=hdw1uKiTI5c" target="_blank">
+    <img height="50" src="https://lastfm.freetls.fastly.net/i/u/770x0/fae8e1ebe7de00d50993a2dd4792df45.jpg">
   </a>
 <a href="https://www.youtube.com/watch?v=WiUibQxWgik" target="_blank">
     <img height="50" src="https://media.afrocharts.com/file/afrocharts-media/uploads/2021/2/jidenna-2-2000-afrocharts-603388086c70b25a458ebd1.jpg">
