@@ -4,7 +4,7 @@
   <a href="https://github.com/JulianZea" target="_blank">
   <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/10/204100-que-pinguino-tux-es-mascota-linux.jpg" with="300" height="300" padding="auto" border="radius">
   </a>
-  <p align="center">I'm Wilson Valer  <strong> Electronics Engineer and Software Developer</strong>
+  <p align="center">I'm Wilson Valer :<strong> Electronics Engineer and Software Developer</strong>
 
 <p align="center">My goal in programming career is to be able to create what I can imagine, without limits and make everything possible.</p>
 <p align="center">Canserbero "all we need is love"</p>
