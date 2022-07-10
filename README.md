@@ -70,7 +70,7 @@
 
 <h2>↤↤↤↤↤ Music: ↦↦↦↦↦</h2>
 <a href="https://www.youtube.com/watch?v=-ZvsGmYKhcU" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canserbero_Vida.jpg">
+    <img height="50" src="https://colectivosonoro.com/wp-content/uploads/2021/12/Coldplay-Colombia-2022-banda.jpg">
   </a>
 <a href="https://www.youtube.com/watch?v=NA7hk1waODg&list=PLD7CF0BAAA0B7D594" target="_blank">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Canserbero_Muerte.jpg">
