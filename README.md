@@ -54,7 +54,7 @@
   <a href="https://www.youtube.com/watch?v=rEsSxd0L4GI&list=PLpOqH6AE0tNgqknxjMAJ8bX_L1a7lnBaH" target="_blank">
   <img alt="ULTRON-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </a>
-  <a href="https://www.youtube.com/watch?v=4_ub6614dwY" target="_blank">
+  <a href="https://www.youtube.com/watch?v=ZlYDqL_mudI&list=RDMM&start_radio=1&rv=-ZvsGmYKhcU" target="_blank">
   <img alt="ULTRON-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
   </a>
   <a href="https://www.youtube.com/watch?v=TmNa4y-K5Z8" target="_blank">
@@ -73,7 +73,7 @@
     <img height="50" src="https://colectivosonoro.com/wp-content/uploads/2021/12/Coldplay-Colombia-2022-banda.jpg">
   </a>
 <a href="https://www.youtube.com/watch?v=NA7hk1waODg&list=PLD7CF0BAAA0B7D594" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Canserbero_Muerte.jpg">
+    <img height="50" src="https://e.radio-grpp.io/medium/2018/08/21/455245_666097.jpg">
   </a>
 <a href="https://www.youtube.com/watch?v=PNmGNsKH1DA&list=PL0YEPAzWUDJk281IVKZ42lwDF-MoLNpKN" target="_blank">
     <img height="50" src="https://lastfm.freetls.fastly.net/i/u/300x300/fc92fb544bc7f563557152986e33d364.jpg">
