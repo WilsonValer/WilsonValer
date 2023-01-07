@@ -11,9 +11,7 @@
 
 
 <div align="center">
-  <a href="https://twitter.com/JulinZea2?t=m4NUcgnp_nat0arm-We0JQ&s=08" target="_blank">
-    <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
-  </a>
+
   <a href="https://www.instagram.com/zion_capricornio/" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" target="_blank">
   </a>
@@ -30,8 +28,8 @@
 
 <h2>𝓢𝓽𝓪𝓽𝓼:</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianZea&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianZea&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonValer&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonValer&layout=compact&theme=tokyonight">
 </div>
 
 <h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
